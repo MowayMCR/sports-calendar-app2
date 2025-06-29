@@ -5,18 +5,13 @@
 ✅ Clic sur une date pour afficher les événements détaillés avec horaires, lieux et flux.
 ✅ Code couleur par sport pour une lecture rapide.
 
-## Déploiement Vercel (en 30 sec)
+## Déploiement Vercel
 
-1️⃣ Crée un compte sur [Vercel](https://vercel.com).
-
-2️⃣ Clone ce repo ou upload directement les fichiers.
-
-3️⃣ Clique sur **"Deploy"**.
-
-4️⃣ Obtiens ton **lien public à partager immédiatement**.
-
----
+- Créez un compte sur [Vercel](https://vercel.com)
+- Uploadez ce projet via GitHub
+- Cliquez sur **Deploy**
 
 ## Commandes locales
-- `npm install` pour installer les dépendances.
-- `npm run dev` pour lancer le développement local.
+
+- `npm install`
+- `npm run dev`

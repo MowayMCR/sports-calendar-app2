@@ -1,1 +1,1 @@
-// Placeholder for button.js component
+// Bouton intégré dans index.js pour simplification

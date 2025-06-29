@@ -1,1 +1,1 @@
-// Placeholder for calendar.js component
+// Calendrier interactif intégré dans index.js pour simplification
